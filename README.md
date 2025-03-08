@@ -26,7 +26,7 @@ A modern Android task management application built with Jetpack Compose.
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/tkharishankar/TaskManager.git
    ```
 
 2. Open the project in Android Studio
